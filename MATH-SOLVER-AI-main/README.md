@@ -72,10 +72,5 @@ Through multiple test cases, we found that the model now handles complex math qu
 5. Conclusion
 With Math Solving Assistant, we aim to provide a powerful, AI-driven tool for solving math problems. The fine-tuned Gemini model improves accuracy, stability, and problem-solving capabilities, making it a valuable resource for students and educators alike.
 
-Our future updates will focus on:
-✅ Further enhancing response quality.
-✅ Expanding dataset coverage for different types of math problems.
-✅ Introducing step-by-step problem-solving explanations.
-
 Try the tool now: 
 
